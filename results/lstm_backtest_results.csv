@@ -1,7 +1,8 @@
 Strategy,Total Ret (%),Ann Ret (%),Sharpe,Max DD (%),Win Rate (%),Volatility (%),N Months
-LSTM Direct,46.34,7.91,0.286,-23.25,35.0,18.95,60
-Random Forest Direct,71.35,11.37,0.468,-18.0,38.3,17.85,60
-Logistic Regression Direct,50.39,8.5,0.324,-18.66,38.3,17.66,60
-Macro Regime Rotation,183.08,23.14,0.926,-17.83,53.3,20.55,60
+LSTM Direct,78.1,12.24,0.533,-20.29,50.0,16.86,60
+RNN Direct,59.67,9.81,0.355,-23.94,40.0,21.66,60
+Random Forest Direct,48.44,8.22,0.299,-24.78,38.3,19.58,60
+Logistic Regression Direct,62.74,10.23,0.378,-27.51,43.3,20.88,60
+Macro Regime Rotation,220.21,26.21,0.863,-18.09,53.3,26.5,60
 Equal Weight Sectors,90.03,13.7,0.576,-22.53,46.7,18.36,60
 SPY Benchmark,107.09,15.67,0.669,-23.97,0.0,18.42,60

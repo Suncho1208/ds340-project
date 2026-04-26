@@ -1,36 +1,36 @@
 ,regime
-2001-04-30,Goldilocks
-2001-05-31,Goldilocks
-2001-06-30,Goldilocks
-2001-07-31,Goldilocks
-2001-08-31,Goldilocks
-2001-09-30,Goldilocks
-2001-10-31,Goldilocks
-2001-11-30,Goldilocks
-2001-12-31,Goldilocks
-2002-01-31,Goldilocks
-2002-02-28,Goldilocks
-2002-03-31,Goldilocks
-2002-04-30,Goldilocks
-2002-05-31,Goldilocks
-2002-06-30,Goldilocks
-2002-07-31,Goldilocks
-2002-08-31,Goldilocks
-2002-09-30,Goldilocks
-2002-10-31,Goldilocks
-2002-11-30,Goldilocks
-2002-12-31,Goldilocks
-2003-01-31,Goldilocks
-2003-02-28,Goldilocks
-2003-03-31,Goldilocks
-2003-04-30,Goldilocks
-2003-05-31,Goldilocks
-2003-06-30,Goldilocks
-2003-07-31,Goldilocks
-2003-08-31,Goldilocks
-2003-09-30,Goldilocks
-2003-10-31,Goldilocks
-2003-11-30,Goldilocks
+2001-04-30,Stagflation
+2001-05-31,Stagflation
+2001-06-30,Stagflation
+2001-07-31,Stagflation
+2001-08-31,Stagflation
+2001-09-30,Stagflation
+2001-10-31,Stagflation
+2001-11-30,Stagflation
+2001-12-31,Stagflation
+2002-01-31,Stagflation
+2002-02-28,Stagflation
+2002-03-31,Stagflation
+2002-04-30,Stagflation
+2002-05-31,Stagflation
+2002-06-30,Stagflation
+2002-07-31,Stagflation
+2002-08-31,Stagflation
+2002-09-30,Stagflation
+2002-10-31,Stagflation
+2002-11-30,Stagflation
+2002-12-31,Stagflation
+2003-01-31,Stagflation
+2003-02-28,Stagflation
+2003-03-31,Stagflation
+2003-04-30,Stagflation
+2003-05-31,Stagflation
+2003-06-30,Stagflation
+2003-07-31,Stagflation
+2003-08-31,Stagflation
+2003-09-30,Stagflation
+2003-10-31,Stagflation
+2003-11-30,Stagflation
 2003-12-31,Goldilocks
 2004-01-31,Goldilocks
 2004-02-29,Goldilocks
@@ -52,7 +52,7 @@
 2005-06-30,Goldilocks
 2005-07-31,Goldilocks
 2005-08-31,Goldilocks
-2005-09-30,Reflation
+2005-09-30,Goldilocks
 2005-10-31,Reflation
 2005-11-30,Reflation
 2005-12-31,Goldilocks
@@ -60,10 +60,10 @@
 2006-02-28,Goldilocks
 2006-03-31,Goldilocks
 2006-04-30,Goldilocks
-2006-05-31,Reflation
-2006-06-30,Goldilocks
+2006-05-31,Goldilocks
+2006-06-30,Reflation
 2006-07-31,Goldilocks
-2006-08-31,Reflation
+2006-08-31,Goldilocks
 2006-09-30,Goldilocks
 2006-10-31,Goldilocks
 2006-11-30,Goldilocks
@@ -80,15 +80,15 @@
 2007-10-31,Goldilocks
 2007-11-30,Goldilocks
 2007-12-31,Reflation
-2008-01-31,Goldilocks
-2008-02-29,Reflation
-2008-03-31,Reflation
-2008-04-30,Reflation
-2008-05-31,Reflation
-2008-06-30,Reflation
-2008-07-31,Reflation
-2008-08-31,Reflation
-2008-09-30,Reflation
+2008-01-31,Stagflation
+2008-02-29,Stagflation
+2008-03-31,Stagflation
+2008-04-30,Stagflation
+2008-05-31,Stagflation
+2008-06-30,Stagflation
+2008-07-31,Stagflation
+2008-08-31,Stagflation
+2008-09-30,Stagflation
 2008-10-31,Deflationary Bust
 2008-11-30,Deflationary Bust
 2008-12-31,Deflationary Bust
@@ -102,8 +102,8 @@
 2009-08-31,Deflationary Bust
 2009-09-30,Deflationary Bust
 2009-10-31,Deflationary Bust
-2009-11-30,Deflationary Bust
-2009-12-31,Deflationary Bust
+2009-11-30,Stagflation
+2009-12-31,Stagflation
 2010-01-31,Stagflation
 2010-02-28,Stagflation
 2010-03-31,Stagflation
@@ -158,10 +158,10 @@
 2014-04-30,Stagflation
 2014-05-31,Stagflation
 2014-06-30,Stagflation
-2014-07-31,Stagflation
-2014-08-31,Stagflation
-2014-09-30,Stagflation
-2014-10-31,Stagflation
+2014-07-31,Goldilocks
+2014-08-31,Goldilocks
+2014-09-30,Goldilocks
+2014-10-31,Goldilocks
 2014-11-30,Goldilocks
 2014-12-31,Goldilocks
 2015-01-31,Goldilocks
@@ -176,8 +176,8 @@
 2015-10-31,Goldilocks
 2015-11-30,Goldilocks
 2015-12-31,Goldilocks
-2016-01-31,Goldilocks
-2016-02-29,Goldilocks
+2016-01-31,Stagflation
+2016-02-29,Stagflation
 2016-03-31,Goldilocks
 2016-04-30,Goldilocks
 2016-05-31,Goldilocks
@@ -226,7 +226,7 @@
 2019-12-31,Goldilocks
 2020-01-31,Goldilocks
 2020-02-29,Goldilocks
-2020-03-31,Goldilocks
+2020-03-31,Deflationary Bust
 2020-04-30,Deflationary Bust
 2020-05-31,Deflationary Bust
 2020-06-30,Deflationary Bust
@@ -239,8 +239,8 @@
 2021-01-31,Stagflation
 2021-02-28,Stagflation
 2021-03-31,Stagflation
-2021-04-30,Stagflation
-2021-05-31,Stagflation
+2021-04-30,Goldilocks
+2021-05-31,Goldilocks
 2021-06-30,Goldilocks
 2021-07-31,Reflation
 2021-08-31,Reflation

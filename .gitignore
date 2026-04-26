@@ -15,6 +15,9 @@ build/
 
 # Jupyter
 .ipynb_checkpoints/
+*.executed.ipynb
+.ipython/
+.mpl/
 
 # OS
 .DS_Store
